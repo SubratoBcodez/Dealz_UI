@@ -5,12 +5,12 @@ E-commerce, Tourism, Events, Ticket booking, Pay bills, Food Delivery, medical- 
 <div align="center">
     <table>
         <tr>
-            <td><img src="./Sign_In.png" alt="Sign In" width="300"/></td>
-            <td><img src="./Restaurant_Home.png" alt="Restaurant_Home" width="300"/></td>
-            <td><img src="./Supermarket_Home.png" alt="Supermarket_Home" width="300"/></td>
-          <td><img src="./Tickets.png" alt="Tickets" width="300"/></td>
-            <td><img src="./Tourism_Home.png" alt="Tourism_Home" width="300"/></td>
-            <td><img src="./Utility_Bills_Home.png" alt="Utility_Bills_Home" width="300"/></td>
+            <td valign="top"><img src="./Sign_In.png" alt="Sign In" width="300"/></td>
+            <td valign="top"><img src="./Restaurant_Home.png" alt="Restaurant_Home" width="300"/></td>
+            <td valign="top"><img src="./Supermarket_Home.png" alt="Supermarket_Home" width="300"/></td>
+          <td valign="top"><img src="./Tickets.png" alt="Tickets" width="300"/></td>
+            <td valign="top"><img src="./Tourism_Home.png" alt="Tourism_Home" width="300"/></td>
+            <td valign="top"><img src="./Utility_Bills_Home.png" alt="Utility_Bills_Home" width="300"/></td>
         </tr>
         <tr>
 <!--             <td><em>Sign In Screen</em></td>
