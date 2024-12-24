@@ -1,7 +1,11 @@
 # Dealz_UI
 E-commerce, Tourism, Events, Ticket booking, Pay bills, Food Delivery, medical- All in one App with Rest API &amp; Firebase
 
+## Screenshots
 
+Here are some screenshots of the app to give you a sneak peek of its design and functionality:
+
+### App Screenshots
 <div align="center">
     <table>
         <tr>
